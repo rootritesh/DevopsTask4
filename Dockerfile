@@ -1,2 +1,2 @@
-FROM vimal13/apache-webserver-php
+FROM rootritesh/webserver-php
 COPY index.php /var/www/html/index.php
